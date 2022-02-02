@@ -1,7 +1,7 @@
 #  Hamzies Hub
 *     When the first version is done, the load string will come here.
 >
-[Click here to get to the old version!](https://github.com/Hamziee/Hamzies-Hub-old/main)
+[Click here to get to the old version!](https://github.com/Hamziee/Hamzies-Hub-old)
 >
 Supported Games:
 >
