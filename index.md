@@ -1,5 +1,13 @@
 # Welcome to Hamzie's Hub
 # Status:
+>
+✔: Online & Working
+>
+❗: Can be risky
+>
+✳: Can be risky
+>
+❌: Offline
 
 ## Main:
 Hamzie's Hub Launcher: ✅
