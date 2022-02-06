@@ -2,7 +2,7 @@
 
 # Downloads:
 
-https://github.com/Hamziee/Hamzies-Hub/releases
+[Releases](https://github.com/Hamziee/Hamzies-Hub/releases)
 
 # About Hamzie's Hub:
 
