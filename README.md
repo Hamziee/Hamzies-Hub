@@ -26,7 +26,7 @@ Hamzie's Hub Roblox Exploit: ✔
 
 ## Games:
 >
-[Mad City](https://www.roblox.com/games/1224212277/Mad-City): ✔
+[Mad City](https://www.roblox.com/games/1224212277/Mad-City): ✔ (Auto-Rob might not work, you will need to wait for MadLandsAR to fix it)
 >
 [Ninja Legends](https://www.roblox.com/games/3956818381/Ninja-Legends): ✔
 >
