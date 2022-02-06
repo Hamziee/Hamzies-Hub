@@ -1,12 +1,14 @@
-## Welcome to Hamzie's Hub
-## Status:
+# Welcome to Hamzie's Hub
+# Status:
 
-# Main:
+## Main:
 Hamzie's Hub Launcher: ✅
+>
 Hamzie's Hub Roblox Exploit: ✅
 
-# Games:
+## Games:
 Madcity: ✅
+>
 Ninja Legends: ✅
 
 ### Markdown
