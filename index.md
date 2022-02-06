@@ -20,7 +20,8 @@ Hamzie's Hub Roblox Exploit: ✔
 Madcity: ✔
 >
 Ninja Legends: ✔
-
+>
+* `Updated on 22:20 - Sunday, 6 February 2022 (CET)`
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for tesigndf
