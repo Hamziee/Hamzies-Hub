@@ -1,9 +1,13 @@
 ## Welcome to Hamzie's Hub
-# Status:
+## Status:
 
-You can use the [editor on GitHub](https://github.com/Hamziee/Hamzies-Hub/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Main:
+Hamzie's Hub Launcher: ✅
+Hamzie's Hub Roblox Exploit: ✅
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Games:
+Madcity: ✅
+Ninja Legends: ✅
 
 ### Markdown
 
