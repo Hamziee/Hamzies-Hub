@@ -5,7 +5,7 @@
 >
 ❗: Can be risky
 >
-✳: Can be risky
+✳: Being worked on, it might be glitchy and not work.
 >
 ❌: Offline
 
