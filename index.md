@@ -11,15 +11,15 @@
 
 ## Main:
 >
-Hamzie's Hub Launcher: ✅
+Hamzie's Hub Launcher: ✔
 >
-Hamzie's Hub Roblox Exploit: ✅
+Hamzie's Hub Roblox Exploit: ✔
 
 ## Games:
 >
-Madcity: ✅
+Madcity: ✔
 >
-Ninja Legends: ✅
+Ninja Legends: ✔
 
 ### Markdown
 
