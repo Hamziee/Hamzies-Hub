@@ -30,6 +30,8 @@ Hamzie's Hub Roblox Exploit: ✔
 >
 [Ninja Legends](https://www.roblox.com/games/3956818381/Ninja-Legends): ✔
 >
+You can request a game at the issues tab, add the label "Game Request"
+>
 * `Updated on 22:20 - Sunday, 6 February 2022 (CET)`
 
 
