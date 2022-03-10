@@ -22,7 +22,7 @@ Hamzie's Hub is a Roblox Script. That gives you the best Exploit Scripts for all
 >
 Hamzie's Hub Launcher: ✔
 >
-Hamzie's Hub Roblox Exploit: ✔
+Hamzie's Hub Roblox Exploit: ❌ (Problems with injecting Hamzie's Hub)
 
 ## Games:
 >
