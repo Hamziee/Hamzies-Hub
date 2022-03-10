@@ -22,7 +22,7 @@ Hamzie's Hub is a Roblox Script. That gives you the best Exploit Scripts for all
 >
 Hamzie's Hub Launcher: ✔
 >
-Hamzie's Hub Roblox Exploit: ❌ (Problems with injecting Hamzie's Hub)
+Hamzie's Hub Roblox Exploit: ✔
 
 ## Games:
 >
@@ -32,6 +32,6 @@ Hamzie's Hub Roblox Exploit: ❌ (Problems with injecting Hamzie's Hub)
 >
 You can request a game at the [issues tab](https://github.com/Hamziee/Hamzies-Hub/issues), add the label "Game Request"
 >
-* `Updated on 23:00 - Thursday, 10 March 2022 (CET)`
+* `Updated on 00:00 - Thursday, 11 March 2022 (CET)`
 
 
