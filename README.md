@@ -26,9 +26,11 @@ Hamzie's Hub Roblox Exploit: ✔
 
 ## Supported Games:
 >
-[Mad City](https://www.roblox.com/games/1224212277/Mad-City)
+[Driving Empire](https:/www.roblox.com/games/3351674303/)
 >
-[Ninja Legends](https://www.roblox.com/games/3956818381/Ninja-Legends)
+[Mad City](https://www.roblox.com/games/1224212277/)
+>
+[Ninja Legends](https://www.roblox.com/games/3956818381/)
 >
 You can request a game at the [issues tab](https://github.com/Hamziee/Hamzies-Hub/issues), add the label "Game Request"
 >
